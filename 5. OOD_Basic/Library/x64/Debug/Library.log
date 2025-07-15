@@ -1,0 +1,86 @@
+﻿  Game.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\limits.h(70,5): warning C4668: '__STDC_WANT_SECURE_LIB__'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(178,5): warning C4365: '인수': 'long'에서 'unsigned int'(으)로의 변환입니다. signed 또는 unsigned가 일치하지 않습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(188,5): warning C4365: '인수': 'long'에서 'unsigned int'(으)로의 변환입니다. signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\texture.h(167,10): warning C4820: 'aiTexture': '7' 바이트 패딩이 데이터 멤버 'aiTexture::achFormatHint' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\texture.h(185,23): warning C4820: 'aiTexture': '4' 바이트 패딩이 데이터 멤버 'aiTexture::mFilename' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\mesh.h(141,18): warning C4820: 'aiFace': '4' 바이트 패딩이 데이터 멤버 'aiFace::mNumIndices' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\mesh.h(475,23): warning C4820: 'aiAnimMesh': '4' 바이트 패딩이 데이터 멤버 'aiAnimMesh::mName' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\mesh.h(659,18): warning C4820: 'aiMesh': '4' 바이트 패딩이 데이터 멤버 'aiMesh::mNumFaces' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\mesh.h(762,18): warning C4820: 'aiMesh': '4' 바이트 패딩이 데이터 멤버 'aiMesh::mNumBones' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\mesh.h(801,18): warning C4820: 'aiMesh': '4' 바이트 패딩이 데이터 멤버 'aiMesh::mNumAnimMeshes' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\mesh.h(822,21): warning C4820: 'aiMesh': '4' 바이트 패딩이 데이터 멤버 'aiMesh::mAABB' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\mesh.h(1050,9): warning C4820: 'aiSkeletonBone': '4' 바이트 패딩이 데이터 멤버 'aiSkeletonBone::mParent' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\mesh.h(1064,18): warning C4820: 'aiSkeletonBone': '4' 바이트 패딩이 데이터 멤버 'aiSkeletonBone::mNumnWeights' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\mesh.h(1107,20): warning C4365: '초기화 중': 'unsigned int'에서 'int'(으)로의 변환입니다. signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\material.h(684,31): warning C4820: 'aiMaterialProperty': '4' 바이트 패딩이 데이터 멤버 'aiMaterialProperty::mType' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\material.inl(174,9): warning C4061: 열거형 'aiPropertyTypeInfo'의 switch에 있는 'aiPTI_String' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\material.inl(174,9): warning C4061: 열거형 'aiPropertyTypeInfo'의 switch에 있는 '_aiPTI_Force32Bit' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\anim.h(139,32): warning C4820: 'aiQuatKey': '4' 바이트 패딩이 데이터 멤버 'aiQuatKey::mInterpolation' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\anim.h(181,18): warning C4820: 'aiMeshKey': '4' 바이트 패딩이 데이터 멤버 'aiMeshKey::mValue' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\anim.h(229,18): warning C4820: 'aiMeshMorphKey': '4' 바이트 패딩이 데이터 멤버 'aiMeshMorphKey::mNumValuesAndWeights' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\anim.h(306,18): warning C4820: 'aiNodeAnim': '4' 바이트 패딩이 데이터 멤버 'aiNodeAnim::mNumRotationKeys' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\anim.h(317,18): warning C4820: 'aiNodeAnim': '4' 바이트 패딩이 데이터 멤버 'aiNodeAnim::mNumScalingKeys' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\anim.h(428,23): warning C4820: 'aiAnimation': '4' 바이트 패딩이 데이터 멤버 'aiAnimation::mName' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\anim.h(438,18): warning C4820: 'aiAnimation': '4' 바이트 패딩이 데이터 멤버 'aiAnimation::mNumChannels' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\anim.h(446,18): warning C4820: 'aiAnimation': '4' 바이트 패딩이 데이터 멤버 'aiAnimation::mNumMeshChannels' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\anim.h(454,18): warning C4820: 'aiAnimation': '4' 바이트 패딩이 데이터 멤버 'aiAnimation::mNumMorphMeshChannels' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\metadata.h(92,20): warning C4820: 'aiMetadataEntry': '4' 바이트 패딩이 데이터 멤버 'aiMetadataEntry::mType' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\metadata.h(158,18): warning C4820: 'aiMetadata': '4' 바이트 패딩이 데이터 멤버 'aiMetadata::mNumProperties' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\metadata.h(243,13): warning C4061: 열거형 'aiMetadataType'의 switch에 있는 'AI_META_MAX' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\metadata.h(301,17): warning C4061: 열거형 'aiMetadataType'의 switch에 있는 'AI_META_MAX' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\metadata.h(554,13): warning C4061: 열거형 'aiMetadataType'의 switch에 있는 'AI_META_MAX' 열거자는 case 레이블에 의해 명시적으로 처리되지 않습니다.
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\scene.h(108,26): warning C4820: 'aiNode': '4' 바이트 패딩이 데이터 멤버 'aiNode::mTransformation' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\scene.h(114,18): warning C4820: 'aiNode': '4' 바이트 패딩이 데이터 멤버 'aiNode::mNumChildren' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\scene.h(120,18): warning C4820: 'aiNode': '4' 바이트 패딩이 데이터 멤버 'aiNode::mNumMeshes' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\scene.h(279,18): warning C4820: 'aiScene': '4' 바이트 패딩이 데이터 멤버 'aiScene::mFlags' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\scene.h(291,18): warning C4820: 'aiScene': '4' 바이트 패딩이 데이터 멤버 'aiScene::mNumMeshes' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\scene.h(303,18): warning C4820: 'aiScene': '4' 바이트 패딩이 데이터 멤버 'aiScene::mNumMaterials' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\scene.h(315,18): warning C4820: 'aiScene': '4' 바이트 패딩이 데이터 멤버 'aiScene::mNumAnimations' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\scene.h(325,18): warning C4820: 'aiScene': '4' 바이트 패딩이 데이터 멤버 'aiScene::mNumTextures' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\scene.h(338,18): warning C4820: 'aiScene': '4' 바이트 패딩이 데이터 멤버 'aiScene::mNumLights' 다음에 추가됨
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\scene.h(350,18): warning C4820: 'aiScene': '4' 바이트 패딩이 데이터 멤버 'aiScene::mNumCameras' 다음에 추가됨
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winbase.h(7810,5): warning C5039: 'TpSetCallbackCleanupGroup': -EHc 아래의 'extern "C"' 함수로 전달되는 잠재적인 throw 함수에 대한 포인터 또는 참조입니다. 이 함수가 예외를 throw하는 경우 정의되지 않은 동작이 발생할 수 있습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10847,22): warning C4668: '_WIN32_WINNT_WIN10_TH2'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10853,22): warning C4668: '_WIN32_WINNT_WIN10_RS1'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10858,22): warning C4668: '_WIN32_WINNT_WIN10_TH2'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10863,22): warning C4668: '_WIN32_WINNT_WIN10_TH2'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10870,22): warning C4668: '_WIN32_WINNT_WIN10_RS1'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10875,22): warning C4668: '_WIN32_WINNT_WIN10_RS2'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10886,22): warning C4668: '_WIN32_WINNT_WIN10_RS2'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10891,22): warning C4668: '_WIN32_WINNT_WIN10_TH2'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10897,22): warning C4668: '_WIN32_WINNT_WIN10_RS3'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10905,22): warning C4668: '_WIN32_WINNT_WIN10_RS4'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10909,22): warning C4668: '_WIN32_WINNT_WIN10_RS1'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10913,22): warning C4668: '_WIN32_WINNT_WIN10_RS4'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10918,22): warning C4668: '_WIN32_WINNT_WIN10_RS1'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10921,22): warning C4668: '_WIN32_WINNT_WIN10_RS5'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10970,23): warning C4668: 'NTDDI_WIN10_CU'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(10974,23): warning C4668: 'NTDDI_WIN10_CU'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(11171,22): warning C4668: '_WIN32_WINNT_WIN10_RS2'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(11195,22): warning C4668: '_WIN32_WINNT_WIN10_RS5'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(14754,22): warning C4668: '_WIN32_WINNT_WIN10_RS5'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(14956,22): warning C4668: '_WIN32_WINNT_WIN10_RS5'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(15059,22): warning C4668: '_WIN32_WINNT_WIN10_RS5'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(15155,21): warning C4668: '_WIN32_WINNT_WIN10_RS5'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(15259,22): warning C4668: '_WIN32_WINNT_WIN10_RS5'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(16004,23): warning C4668: '_WIN32_WINNT_WIN10_RS2'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(16092,22): warning C4668: '_WIN32_WINNT_WIN10_RS2'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(16218,22): warning C4668: '_WIN32_WINNT_WIN10_RS3'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(16367,22): warning C4668: '_WIN32_WINNT_WIN10_RS4'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(16380,22): warning C4668: '_WIN32_WINNT_WIN10_RS4'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(16609,22): warning C4668: '_WIN32_WINNT_WIN10_RS1'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+C:\Users\SeongYoon\source\repos\2025_Graphics\External\Assimp\Include\assimp\vector3.h(86,5): warning C5267: 'aiVector3t<ai_real>'에 대한 암시적 대입 연산자의 정의는 사용자가 제공한 복사 생성자이 있으므로 더 이상 사용되지 않습니다.
+d3d11.lib(d3d11.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR이(가) d3dcompiler.lib(D3DCOMPILER_47.dll)에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+  Library.vcxproj -> C:\Users\SeongYoon\source\repos\2025_Graphics\Build\x64\Debug\Libraryd.lib
+  하위 디렉터리 또는 파일 C:\Users\SeongYoon\source\repos\2025_Graphics\Build\..\Library\x64\Debug이(가) 이미 있습니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Build\x64\Debug\assimp-vc143-mtd.dll
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Build\x64\Debug\diffuso.png
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Build\x64\Debug\diffuso.tif
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Build\x64\Debug\Game.exe
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Build\x64\Debug\Game.pdb
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Build\x64\Debug\Libraryd.idb
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Build\x64\Debug\Libraryd.lib
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Build\x64\Debug\Libraryd.pdb
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Build\x64\Debug\VS.cso
+          9개 파일이 복사되었습니다.

@@ -1,0 +1,82 @@
+﻿  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMathMatrix.inl(1557): warning C4710: 'void __cdecl DirectX::XMScalarSinCos(float * __ptr64,float * __ptr64,float)': 함수를 인라인하지 못했습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMathMatrix.inl(2502): warning C4710: 'void __cdecl DirectX::XMScalarSinCos(float * __ptr64,float * __ptr64,float)': 함수를 인라인하지 못했습니다.
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Game\main.cpp(10): warning C4711: 자동 인라인 확장을 위해 'long __cdecl InitWindow(struct HINSTANCE__ * __ptr64,int)' 함수가 선택되었습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMathMatrix.inl(2189): warning C4710: 'struct DirectX::XMMATRIX __vectorcall DirectX::XMMatrixLookToLH(union __m128,union __m128,union __m128)': 함수를 인라인하지 못했습니다.
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(236): warning C4711: 자동 인라인 확장을 위해 'long __cdecl CompileShaderFromFile(wchar_t const * __ptr64,char const * __ptr64,char const * __ptr64,struct ID3D10Blob * __ptr64 * __ptr64)' 함수가 선택되었습니다.
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(242): warning C4711: 자동 인라인 확장을 위해 'long __cdecl CompileShaderFromFile(wchar_t const * __ptr64,char const * __ptr64,char const * __ptr64,struct ID3D10Blob * __ptr64 * __ptr64)' 함수가 선택되었습니다.
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(370): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(368) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(370) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(368): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(368) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(368) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(364): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(364) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(364) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(357): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(357) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(357) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(318): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(318) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(318) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(305): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(303) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(305) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(296): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(296) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(296) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(292): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(292) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(292) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(288): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(288) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(288) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(266): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(266) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(266) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(249): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(249) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(249) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(243): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(243) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(243) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(240): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(240) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(240) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(237): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(237) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(237) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(226): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(226) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(226) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(210): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(210) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(210) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(153): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(153) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(153) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(145): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(145) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(145) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(130): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(130) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(130) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(126): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(126) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(126) : 참고: 이 줄에서 호출 피드
+C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(121): warning C5045: 컴파일러는 /Qspectre 스위치가 지정된 경우 메모리 로드를 위해 스펙터 완화를 삽입합니다.
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(121) : 참고: 이 줄에서 비교에 의해 검사된 인덱스 'hr' 범위
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Source\Library\Game.cpp(121) : 참고: 이 줄에서 호출 피드
+  All 30 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Game.vcxproj -> C:\Users\SeongYoon\source\repos\2025_Graphics\Build\x64\Release\Game.exe
+  C:\Users\SeongYoon\source\repos\2025_Graphics\Build\..\External\Assimp\Binary\x64\Release\assimp-vc143-mt.dll
+  1개 파일이 복사되었습니다.
+  '"C:\Users\SeongYoon\source\repos\2025_Graphics\Build\x64\Release\"'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: "xcopy /y /d "C:\Users\SeongYoon\source\repos\2025_Graphics\Build\..\External\Assimp\Binary\x64\Release\assimp-vc143-mt.dll"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: "C:\Users\SeongYoon\source\repos\2025_Graphics\Build\x64\Release\"
+
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :VCEnd" 명령이 종료되었습니다(코드: 9009).
